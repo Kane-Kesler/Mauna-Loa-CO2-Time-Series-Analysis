@@ -1,3 +1,3 @@
 # Mauna-Loa-CO2-Time-Series-Analysis
 
-This repo explores the trend, seasonality and random noise of the CO2 levels in Mauna Loa.
+As part of my computer programming course (2022) we perform time series analysis only using the ```matplotlib```, ```numpy``` and ```pandas``` packages.
